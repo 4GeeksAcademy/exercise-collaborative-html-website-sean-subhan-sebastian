@@ -1,6 +1,13 @@
 body{
     background: white;
 }
+
+.portfolio-container {
+    margin-top: 3%;
+    padding-left: 11%;
+    padding-right: 11%;
+}
+
 #services-img{
     border-radius: 50%;
 }
